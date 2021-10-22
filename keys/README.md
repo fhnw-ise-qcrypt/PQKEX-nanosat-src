@@ -1,6 +1,22 @@
 
 
-Public Key Exchange:
+### Nomenclature
+
+#### 1. as in the sub directories:
+
+- `**A.key` = "Alice" = Satellite
+- `**B.key` = "Bob" = Ground Station
+
+#### 2. as executed practically:
+
+- `**A.key` = my own key
+- `**B.key` = other party's key
+
+So if you would want to verify the generation of the `COMMON.key` you would first have to rename the files to match nomenclature (2.)
+
+### Public Key Exchange
+
+Renaming files according to nomenclature (2.)
 
 same for both variations
 - 📡 `gnd/PKA.key` --> 🛰 `sat/PKB.key`
