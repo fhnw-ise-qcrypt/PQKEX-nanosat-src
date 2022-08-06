@@ -1,6 +1,7 @@
 # PQKEX-nanosat-src
 
 This repository contains the source code and the exchanged messages for the _"First demonstration of a post-quantum key-exchange with a nanosatellite"_ experiment.
+Arxiv.org [link](https://arxiv.org/abs/2206.00978) - published at 2022 [smallsat conference](https://smallsat.org/) in Logan, Utah.
 
 ### Ground Station (amd64)
 
